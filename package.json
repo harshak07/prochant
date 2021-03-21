@@ -1,0 +1,6 @@
+{
+  "name": "prochant_jq",
+  "scripts": {
+    "start": "parcel index.html detail.html"
+  }
+}
